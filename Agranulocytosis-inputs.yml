@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/agranulocytosis-kostmann's---primary.py
+inputModule3:
+  class: File
+  path: python/idiopathic-agranulocytosis---primary.py
+inputModule4:
+  class: File
+  path: python/agranulocytosis---primary.py
+inputModule5:
+  class: File
+  path: python/agranulocytosis-acquired---primary.py
+inputModule6:
+  class: File
+  path: python/agranulocytosis-neutropenia---primary.py
+inputModule7:
+  class: File
+  path: python/agranulocytosis-leucopenia---primary.py
+inputModule8:
+  class: File
+  path: python/agranulocytosis-induced---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
